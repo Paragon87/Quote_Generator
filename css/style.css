@@ -1,0 +1,51 @@
+body {
+  background-color: skyblue;
+}
+
+.titleBar .titleText {
+  margin: 45px auto 10px auto;
+  text-align: center;
+  color: darkgreen;
+  text-shadow: 2px 2px black;
+}
+
+.quoteBox {
+  margin: 1% auto;
+  padding: 45px 55px;
+  background-color: #ffffdd;
+  border-radius: 25px;
+  position: relative;
+  display: table;
+}
+
+.quoteBox .quoteText {
+  text-align: center;
+  font-size: 1.5em;
+  color: darkgreen;
+}
+
+.quoteBox .authorText {
+  padding-bottom: 20px;
+  text-align: right;
+  font-size: 1em;
+  color: green;
+}
+
+
+.buttons .tweetBtn {
+  font-size: 40px;
+  background-color: lightblue;
+  border-radius: 15px;
+}
+
+.buttons .btn-next {
+  float: right;
+  background-color: lightblue;
+  border: 1px solid gray;
+  border-radius: 10px;
+  height: 40px;
+}
+
+.foot {
+  text-align: center;
+}
